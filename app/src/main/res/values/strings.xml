@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Tweet App</string>
+
+    <string name="followers_hint">Followers</string>
+    <string name="following_hint">Following</string>
+
+    <string name="search_query_hint">Enter user name</string>
+    <string name="search_hint">search</string>
+
+    <string name="not_enough_symbols_msg">Please enter at least one symbol</string>
+    <string name="loading_error_msg">Error during loading info</string>
+
+    <string name="fa_map_marker" translatable="false">\uf041</string>
+    <string name="fa_heart_o" translatable="false">\uf004</string>
+    <string name="fa_retweet" translatable="false">\uf079</string>
+    <string name="fa_search" translatable="false">\uf002</string>
+</resources>
